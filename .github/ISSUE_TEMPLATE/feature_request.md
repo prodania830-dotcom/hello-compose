@@ -1,6 +1,6 @@
 ---
-name: "Feature request"
-about: "Пропозиція нової функції"
+name: ✨ Feature request
+about: Пропозиція нової функції
 title: "[FEATURE] "
 labels: enhancement
 assignees: ''
