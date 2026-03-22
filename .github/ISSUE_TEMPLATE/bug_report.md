@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Повідомте про помилку у застосунку
+name: "Bug report"
+about: "Повідомте про помилку у застосунку"
 title: "[BUG] "
 labels: bug
 assignees: ''
@@ -30,6 +30,6 @@ assignees: ''
 
 **Додаткова інформація**
 
-- Пристрій: Pixel 6 / Android 14
+- Пристрій: Pixel 6 / Android 13
 - Версія застосунку: 0.1.0
 - Скріншоти: (додайте)
